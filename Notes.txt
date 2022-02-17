@@ -1,0 +1,5 @@
+syntax: the way you write the code(for example python and javascript both are similar language but the method is different)
+String: is a group of characters(ali,england they both are strings as they are group of multiple characters and must be written with"")
+concatenation: merging of 2 elements(ali+5 output will be ali5 "10"+20 output will be 1020) always work in +
+java script adopts interpretation which means code will be translated line by line
+java script works with dmas rule always
